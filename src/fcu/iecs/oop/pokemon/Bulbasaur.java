@@ -9,7 +9,6 @@ public class Bulbasaur extends Pokemon{
 	
 	public void attack()
 	{
-		
 		System.out.println("¡¨Tackle¡K¡¨");
 	}
 }
